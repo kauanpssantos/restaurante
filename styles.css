@@ -1,10 +1,5 @@
-
-
-.cabecario{
-    background-color: black;
+.cabeçalho{
+background-color: rgb(255, 0, 0);
+text-align: center;
 }
 
-h1{
-    text-align: center;
-    color: aliceblue;
-}
