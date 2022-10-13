@@ -3,3 +3,14 @@ background-color: rgb(255, 0, 0);
 text-align: center;
 }
 
+.titulo{
+    font-style: initial;
+}
+
+.img-restaurantes{
+    padding-top: 300px;
+}
+
+.navbar{
+    text-align: end;
+}
