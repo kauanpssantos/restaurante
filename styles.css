@@ -1,6 +1,5 @@
 .cabeçalho{
 background-image: url(img/14.webp);
-text-align: center;
 }
 
 .titulo{
@@ -16,5 +15,7 @@ text-align: center;
 text-align: center;
 }
 
-
+.elementos{
+    padding-left: 100px;
+}
 
