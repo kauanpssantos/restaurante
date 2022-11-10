@@ -1,21 +1,21 @@
 .cabeçalho{
-background-image: url(img/14.webp);
+    background-color: rgb(255, 217, 217);
+    text-align: center;
 }
 
 .titulo{
     text-align: center;
-    color: rgb(253, 169, 113);
+    color: rgb(0, 0, 0);
+    text-transform:unset
 }
 
 .img-restaurantes{
-    padding-top: 300px;
+    padding-top: 150px;
     
 }
-.icone{
-text-align: center;
+
+.p{
+    padding-top: 60px;
 }
 
-.elementos{
-    padding-left: 100px;
-}
 
