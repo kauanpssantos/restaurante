@@ -1,12 +1,11 @@
 .cabeçalho{
     background-color: rgb(255, 217, 217);
     text-align: center;
-}
-
-.titulo{
-    text-align: center;
-    color: rgb(0, 0, 0);
-    text-transform:unset
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
 
 .img-restaurantes{
@@ -26,7 +25,16 @@ padding-bottom: 10px;
    text-align: left;
 }
 
-.botao{
-    display: flex;
-   align-items:center;
+.info{
+    text-align: top;
+    text-align: center;
+
+}
+
+label{
+    color: rgb(80, 66, 187);
+    size: 100rem;
+}
+.h{
+    text-decoration: dotted;
 }
